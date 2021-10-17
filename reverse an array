@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/reverse-a-string/1
+
 sol:-
 int n=str.size();
     
